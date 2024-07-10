@@ -10,8 +10,6 @@
 
 **Escuela Profesional de Ingeniería de Sistemas**
 
-**Proyecto *{Nombre de Proyecto}***
-
 **Proyecto *Camino de desafios VR***
 
 Curso: *Diseño y creación de Videojuegos*
