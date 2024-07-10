@@ -43,7 +43,7 @@ Videjuego *Camino de desafios VR*
 |CONTROL DE VERSIONES||||||
 | :-: | :- | :- | :- | :- | :- |
 |Versión|Hecha por|Revisada por|Aprobada por|Fecha|Motivo|
-|1\.0|MPV|ELV|ARV|10/07/2024|Versión Original|
+|1\.0|JVY|JVY|PCQ|10/07/2024|Versión Original|
 
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
@@ -227,6 +227,31 @@ e) Estandaraes de calidad y seguridad	](#_toc394513800)42
     - Interés del mercado: Se mantendrá en el crecimiento de juegos VR educativos y de entretenimiento.
 
     4.4	Costos y precios
+
+            | PERIODO ANUAL | INGRESOS | EGRESOS | EFECTIVO NETO ANUAL |
+            |---------------|----------|---------|---------------------|
+            | 0             | -591.5   |         | -591.5              |
+            | 1             | 300      | 30      | 270                 |
+            | 2             | 300      | 30      | 270                 |
+            | 3             | 300      | 30      | 270                 |
+
+            B/C: 1.135164899
+
+            Valor Actual Neto (VAN)
+            
+            | Descripción       | Valor   |
+            |-------------------|---------|
+            | INVERSION         | 591.5   |
+            | TASA DE DESCUENTO | 10%     |
+            | VNA               | 671.45  |
+
+            Tasa Interna de Retorno (TIR)*
+
+            | Descripción       | Valor   |
+            |-------------------|---------|
+            | INVERSION         | 591.5   |
+            | TASA DE DESCUENTO | 10%     |
+            | TIR               | 18%     |
 
     4.5	Licenciamiento e instalación
     El juego se distribuirá digitalmente, con licencias gestionadas a través de las plataformas de VR. La instalación será sencilla y compatible con los principales cascos de realidad virtual del mercado.
