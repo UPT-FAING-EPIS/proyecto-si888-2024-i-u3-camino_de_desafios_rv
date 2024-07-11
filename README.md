@@ -5,3 +5,5 @@
 - Josue Villanueva Yucra
 - Thomas Yoel Condori Vargas
 - Javier Neira Machaca
+
+![CAMINO DE DESAFIOS2](https://github.com/UPT-FAING-EPIS/proyecto-si888-2024-i-u3-camino_de_desafios_rv/assets/82143374/8ec60673-3398-4b01-bd26-4896dcf2600c)
